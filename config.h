@@ -10,7 +10,7 @@ static const Block blocks[] = {
 {"",	"volume",	0,	10},
 {"",	"bluetooth-manager",	5,	29}, 
 {"",	"memory",	10,	14}, 
-{"",	"forecast",	18000,	5},
+{"",	"forecast",	1800,	5},
 {"",	"clock",	60,	1},
 {"",	"systray",	0,	15},
 
